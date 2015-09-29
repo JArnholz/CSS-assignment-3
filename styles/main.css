@@ -118,7 +118,11 @@ aside a:focus, aside a:hover {
 	
 	#top-image-container {
 		display: none;
-		}
+	}
+		
+	#container {
+		margin: 0
+	}
 		
 	aside {
 		float: none;
@@ -134,9 +138,6 @@ aside a:focus, aside a:hover {
 		margin-top: 0;
 	}
 	
-	#container {
-		margin: 0
-		}
 }
 
 
